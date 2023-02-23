@@ -301,10 +301,24 @@ hr{
 
 .sprint{
     padding-right: 10px;
+    text-decoration: none;
+    font-family: 'Montserrat2';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+
+    color: #828282;
+}
+
+.audio{
+    padding-right: 10px;
+    text-decoration: none;
 }
 
 .speaker{
    padding-right: 10px; 
+   
 }
 
 .settings{
