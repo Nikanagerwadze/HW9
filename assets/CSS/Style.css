@@ -211,8 +211,8 @@ hr{
 }
 
 .footer{
-    padding-left: 370px;
-    padding-top: 30px;
+    margin-top: 30px;
+    margin-left: 347px;
 }
 
 .Textbook{
@@ -223,7 +223,6 @@ hr{
 
     background: #FFFFFF;
     border-radius: 14px;
-
 }
 
 .hatT{
@@ -340,13 +339,14 @@ hr{
 .block{
     display: flex;
     position: absolute;
+    width: 830px;
+    margin-inline: auto;
+    padding-left: 176px;
 }
 
 .block_footer1{
     display: flex;
     align-items: center;
-    margin-top: 40px;
-    padding-left: 170px;
 
 }
 
@@ -423,7 +423,6 @@ hr{
 .block_footer2{
     display: flex;
     align-items: center;
-    margin-top: 40px;
     padding-left: 40px;
 
 }
@@ -470,7 +469,6 @@ hr{
 .block_footer3{
     display: flex;
     align-items: center;
-    margin-top: 40px;
     padding-left: 40px;
 }
 
@@ -579,7 +577,6 @@ hr{
 .block_footer4{
     display: flex;
     align-items: center;
-    margin-top: 40px;
     padding-left: 40px;
 }
 
@@ -648,7 +645,6 @@ hr{
 .block_footer5{
     display: flex;
     align-items: center;
-    margin-top: 40px;
     padding-left: 40px;
 }
 
@@ -718,7 +714,6 @@ hr{
 .block_footer6{
     display: flex;
     align-items: center;
-    margin-top: 40px;
     padding-left: 40px;
 }
 
@@ -789,7 +784,7 @@ hr{
 .Block7{
     display: flex;
     justify-content: center;
-    padding-top: 130px;
+    padding-top: 92px;
 }
 
 .classroom{
@@ -996,13 +991,6 @@ hr{
 }
 
 .Add{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 12px 20px;
-    gap: 12px;
-    
     width: 156px;
     height: 40px;
 
@@ -1138,9 +1126,11 @@ hr{
     display: flex;
     gap: 30px;
     align-items: center;
-    padding-left: 668px;
     padding-top: 26px;
     padding-bottom: 60px;
+    justify-content: center; 
+    width: 864px; 
+    margin-inline: auto;
 }
 
 .arrow{
